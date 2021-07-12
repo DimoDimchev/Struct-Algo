@@ -27,4 +27,9 @@ int main(){
         printf("Element on index %i is %d \n", i, arrayOfInt[i]); /* print every element of the array */
     }
     
+    printf("Address of someVariable variable: %x\n", &someVariable  );
+    printf("Address stored in somePointer variable: %x\n", somePointer ); /* address stored in pointer variable */
+    printf("Value of *somePointer variable: %d\n", *somePointer ); /* access the value using the pointer */
+
+    return 0;
 }
