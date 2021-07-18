@@ -38,6 +38,7 @@ void Reverse(struct Node* p){
     p->next = NULL;
 }
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){   
     head = NULL; // empty list
 

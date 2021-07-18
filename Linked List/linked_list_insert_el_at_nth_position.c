@@ -41,6 +41,7 @@ void Print(){
     printf("\n");
 }
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){
     head = NULL; // empty list
 

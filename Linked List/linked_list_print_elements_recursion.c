@@ -40,6 +40,7 @@ void ReversePrint(struct Node* head){
     printf("%d ", head->data);
 }
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){   
     struct Node* head = NULL; // empty list
 

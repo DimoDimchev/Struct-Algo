@@ -40,6 +40,7 @@ void Delete(int position){ // delete element at position
     }
 } 
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){   
     head = NULL; // empty list
 

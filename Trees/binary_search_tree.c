@@ -35,6 +35,7 @@ int Search(struct TreeNode* root, int data){ // search for a specific element re
     else return Search(root->right, data);
 }
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){
     struct TreeNode* root = NULL;
     root = Insert(root, 20);

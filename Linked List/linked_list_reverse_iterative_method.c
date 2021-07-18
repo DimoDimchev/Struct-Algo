@@ -39,6 +39,7 @@ void Reverse(){ // reverse the list by iterating through it and changing the lin
     head = prev;
 }
 
+// TEST>>>>NOT PART OF IMPLEMENTATION
 int main(){   
     head = NULL; // empty list
 
